@@ -1,0 +1,47 @@
+.container{
+    height: auto !important;
+}
+
+.navbar {
+    font-family:    'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    
+}
+
+.navbar-nav > li {
+    padding-left: 1rem;
+}
+
+[class*="container overflow-hidden"] {
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+
+}
+
+.col-12 >.p-3  {
+    
+    padding-left: 3rem;
+    padding-right: 3rem;
+    border-radius: 5px;
+    font-family:  Verdana, sans-serif ;
+    font-variant-caps: titling-caps;
+    text-align: center !important;
+    font-size: large;
+    color: azure;
+    
+}
+
+button {
+    margin-top: 2%;
+    
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;   
+}
+
+th,td {
+    word-wrap: break-word;
+}
+
